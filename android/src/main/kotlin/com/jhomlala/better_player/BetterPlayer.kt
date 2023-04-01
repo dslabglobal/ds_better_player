@@ -315,8 +315,8 @@ internal class BetterPlayer(
 
             exoPlayer?.let {
                 setPlayer(ForwardingPlayer(exoPlayer))
-                setUseNextAction(false)
-                setUsePreviousAction(false)
+                setUseNextAction(true)
+                setUsePreviousAction(true)
                 setUseStopAction(false)
             }
 
