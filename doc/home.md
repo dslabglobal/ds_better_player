@@ -21,7 +21,7 @@ This plugin is based on [Chewie](https://github.com/brianegan/chewie). Chewie is
 ✔️ ... and much more!  
 
 ## Important information
-This plugin development is in progress. You may encounter breaking changes each version. This plugin is developed part-time for free. If you need
+This plugin development is in progress. You may encounter breaking changes each version. This plugin is developed part'../docs'-time for free. If you need
 some feature which is supported by other players available in pub dev, then feel free to create PR. All valuable contributions are welcome!
 
 ## Screenshots

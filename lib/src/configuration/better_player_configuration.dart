@@ -1,4 +1,4 @@
-import 'package:better_player/better_player.dart';
+import 'package:ds_better_player/ds_better_player.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

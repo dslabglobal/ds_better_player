@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:better_player/better_player.dart';
-import 'package:better_player_example/constants.dart';
+import 'package:ds_better_player/better_player.dart';
+import 'package:ds_better_player_example/constants.dart';
 import 'package:flutter/material.dart';
 
 class EventListenerPage extends StatefulWidget {
